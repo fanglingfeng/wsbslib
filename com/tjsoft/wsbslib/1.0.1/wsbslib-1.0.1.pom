@@ -111,7 +111,7 @@
     </dependency>
     <dependency>
       <groupId>BaoAnTong_Module</groupId>
-      <artifactId>ocr_ui</artifactId>
+      <artifactId>ocr_ui_lib</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
